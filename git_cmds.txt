@@ -1,1 +1,6 @@
 
+git status - check the status
+git add "file_name" - to add a file to the repository
+git commit -m "message" - to commit the changes
+git push origin main - to push the saved changes to the github repository
+git pull - to pull the changes made in github to the local git folder/working folder.
